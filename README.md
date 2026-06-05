@@ -1,10 +1,10 @@
 # Hi 👋, I'm Mayur Rithe
 
-## 🚀 MERN Stack Developer
+### MERN Stack Developer
 
-I'm a Full-Stack Web Developer passionate about building scalable web applications using the MERN Stack.
+I'm passionate about building web applications and currently learning Full-Stack Development using the MERN Stack.
 
-### 💻 Tech Stack
+## 🛠️ Tech Stack
 
 * HTML5
 * CSS3
@@ -15,38 +15,25 @@ I'm a Full-Stack Web Developer passionate about building scalable web applicatio
 * MongoDB
 * Git & GitHub
 
-### 🌱 Currently Learning
+## 🚀 Projects
 
-* Advanced React
-* Authentication & Authorization
+### Airbnb Clone
+
+A full-stack web application featuring user authentication, reviews & ratings, image uploads, and MongoDB integration.
+
+### Todo App
+
+A task management application with user authentication and CRUD operations.
+
+## 📚 Currently Learning
+
+* Advanced React.js
 * REST APIs
-* Full-Stack System Design
+* Authentication & Authorization
+* MERN Stack Development
 
-### 🚀 Featured Projects
+## 📫 Connect With Me
 
-#### Airbnb Clone
+📧 Email: [mayurrithe2004@gmail.com](mailto:mayurrithe2004@gmail.com)
 
-A full-stack Airbnb-inspired platform with:
-
-* Authentication using Passport.js
-* Reviews & Ratings
-* Image Uploads
-* MongoDB Database
-
-#### Todo App
-
-A full-stack task management application with:
-
-* User Authentication
-* CRUD Operations
-* MongoDB Integration
-* Responsive UI
-
-### 📫 Connect With Me
-
-* LinkedIn: Your LinkedIn URL
-* Email: [mayurrithe2004@gmail.com](mailto:mayurrithe2004@gmail.com)
-
-### ⚡ Fun Fact
-
-I enjoy building full-stack applications and learning modern web technologies.
+⭐ Always learning, building, and improving my development skills.
