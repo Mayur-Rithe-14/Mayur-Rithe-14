@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋, I'm Mayur Rithe
 
-<!--
-**Mayur-Rithe-14/Mayur-Rithe-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 MERN Stack Developer
 
-Here are some ideas to get you started:
+I'm a Full-Stack Web Developer passionate about building scalable web applications using the MERN Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* Git & GitHub
+
+### 🌱 Currently Learning
+
+* Advanced React
+* Authentication & Authorization
+* REST APIs
+* Full-Stack System Design
+
+### 🚀 Featured Projects
+
+#### Airbnb Clone
+
+A full-stack Airbnb-inspired platform with:
+
+* Authentication using Passport.js
+* Reviews & Ratings
+* Image Uploads
+* MongoDB Database
+
+#### Todo App
+
+A full-stack task management application with:
+
+* User Authentication
+* CRUD Operations
+* MongoDB Integration
+* Responsive UI
+
+### 📫 Connect With Me
+
+* LinkedIn: Your LinkedIn URL
+* Email: [mayurrithe2004@gmail.com](mailto:mayurrithe2004@gmail.com)
+
+### ⚡ Fun Fact
+
+I enjoy building full-stack applications and learning modern web technologies.
