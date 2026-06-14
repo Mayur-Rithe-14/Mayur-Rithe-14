@@ -8,7 +8,9 @@ I'm Mayur Rithe, a passionate MERN Stack Developer from India.
 
 * React.js
 * Node.js
+* Express.js
 * MongoDB
+* Responsive Web Design
 * Full-Stack Projects
 
 🛠️ Tech Stack:
@@ -16,7 +18,10 @@ HTML • CSS • JavaScript • React • Node.js • Express • MongoDB
 
 📂 Featured Projects:
 
-* Airbnb Clone
+* Personal Portfolio
+* Wanderlust (Airbnb-Clone)
+* Taflow (Task Management App)
 * Todo App
 
-📫 Reach me: [mayurrithe2004@gmail.com](mailto:mayurrithe2004@gmail.com)
+📫 Reach me: [mayurrithe2004@gmail.com](mailto:mayurrithe2004@gmail.com) | Portfolio: []
+
