@@ -23,5 +23,5 @@ HTML • CSS • JavaScript • React • Node.js • Express • MongoDB
 * Taflow (Task Management App)
 * Todo App
 
-📫 Reach me: [mayurrithe2004@gmail.com](mailto:mayurrithe2004@gmail.com) | Portfolio: [(https://personal-portfolio-1-cqic.onrender.com)]
+📫 Reach me: [mayurrithe2004@gmail.com](mailto:mayurrithe2004@gmail.com) | Portfolio: https://personal-portfolio-1-cqic.onrender.com
 
