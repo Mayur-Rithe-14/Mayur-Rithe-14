@@ -1,25 +1,34 @@
 <!-- ========================================================= -->
 
-<!-- PREMIUM GITHUB PROFILE -->
+<!--                     PREMIUM GITHUB PROFILE                 -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-Hi 👋 I'm Mayur Rithe
-Full-Stack MERN Developer • JavaScript Enthusiast • Building Real-World Applications
+# Hi 👋 I'm **Mayur Rithe**
+
+### Full-Stack MERN Developer • JavaScript Enthusiast • Building Real-World Applications
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Crafting+Modern+Web+Applications;Always+Learning+New+Technologies;Open+to+Software+Engineering+Opportunities"/>
 
 <br>
 
-<a href="mailto:mayurrithe2004@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="mailto:mayurrithe2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<a href="https://personal-portfolio-1-cqic.onrender.com"> <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
+<a href="https://personal-portfolio-1-cqic.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-<a href="https://github.com/Mayur-Rithe-14"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a>
+<a href="https://github.com/Mayur-Rithe-14">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 <br><br>
 
@@ -30,27 +39,28 @@ Full-Stack MERN Developer • JavaScript Enthusiast • Building Real-World Appl
 <img src="https://img.shields.io/github/stars/Mayur-Rithe-14?style=for-the-badge"/>
 
 </div>
+
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-I'm a passionate **Full-Stack MERN Developer** from **India** who enjoys building modern web applications that solve real-world problems.
+I'm a passionate **Full-Stack MERN Developer** from **India** who enjoys transforming ideas into scalable, responsive, and production-ready web applications.
 
-I enjoy learning new technologies, improving my problem-solving skills, and creating responsive applications with a strong focus on performance and user experience.
+I believe great software is built through continuous learning, clean architecture, and attention to user experience.
 
-### 🚀 Current Focus
+### 🌱 Currently
 
-* Building production-ready MERN applications
-* Learning System Design
-* Practicing Data Structures & Algorithms
-* Exploring Next.js & TypeScript
-* Contributing to Open Source
+* 🚀 Building Full-Stack MERN Projects
+* ⚛️ Mastering Advanced React
+* 🧠 Learning System Design
+* 📚 Practicing Data Structures & Algorithms
+* ☁️ Exploring Docker & AWS
+* 🤝 Looking to contribute to Open Source
 
 ---
 
 # 💻 Tech Stack
-
-### Programming Languages
+Programming Languages
 
 <p>
 
@@ -58,7 +68,7 @@ I enjoy learning new technologies, improving my problem-solving skills, and crea
 
 </p>
 
-### Frontend Development
+Frontend Development
 
 <p>
 
@@ -66,7 +76,7 @@ I enjoy learning new technologies, improving my problem-solving skills, and crea
 
 </p>
 
-### Backend Development
+Backend Development
 
 <p>
 
@@ -74,15 +84,15 @@ I enjoy learning new technologies, improving my problem-solving skills, and crea
 
 </p>
 
-### Database
+Database
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,jdbc"/>
 
 </p>
 
-### Tools & Technologies
+Tools & Technologies
 
 <p>
 
@@ -96,9 +106,19 @@ I enjoy learning new technologies, improving my problem-solving skills, and crea
 
 ## 🛒 MERN E-Commerce Platform
 
-A complete e-commerce platform featuring secure authentication, shopping cart, wishlist, order management, checkout flow, admin dashboard, and responsive design.
+✔ JWT Authentication
 
-**Tech Stack**
+✔ Shopping Cart & Wishlist
+
+✔ Secure Checkout
+
+✔ Order Tracking
+
+✔ Admin Dashboard
+
+✔ Responsive Design
+
+**Stack**
 
 React • Node.js • Express • MongoDB • JWT
 
@@ -106,59 +126,60 @@ React • Node.js • Express • MongoDB • JWT
 
 ## 🏡 Wanderlust
 
-A full-stack Airbnb-inspired platform with property listings, authentication, reviews, image uploads, and responsive UI.
-
-**Tech Stack**
-
-Node.js • Express • MongoDB • EJS
+An Airbnb-inspired property rental platform with secure authentication, property listings, image uploads, reviews, and a modern responsive interface.
 
 ---
 
-## ✅ Taflow – Task Management App
+## ✅ Taflow
 
-A productivity application with authentication, dashboard analytics, task management, status tracking, filtering, and responsive design.
-
-**Tech Stack**
-
-React • Node.js • Express • MongoDB
+Task Management application featuring analytics dashboard, task CRUD operations, authentication, status tracking, and responsive UI.
 
 ---
 
 ## 🌐 Personal Portfolio
 
-A modern developer portfolio showcasing my projects, technical skills, certifications, and contact information.
+A modern portfolio website showcasing my projects, technical skills, certifications, and development journey.
 
 ---
 
-## 📈 GitHub Statistics
+# 📈 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayur-Rithe-14&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mayur-Rithe-14&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur-Rithe-14&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur-Rithe-14&theme=tokyonight&hide_border=true"/>
 
-</p>
+<br><br>
 
-<p align="center">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Rithe-14&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Rithe-14&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-## 📊 Contribution Graph
+# 📊 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Rithe-14&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 📚 Currently Learning
+# 🎯 2026 Goals
+
+* ✅ Build 10+ Production-Ready MERN Projects
+* 🚀 Learn Next.js
+* 🧠 Master TypeScript
+* ☁️ Learn Docker & AWS
+* 🌍 Contribute to Open Source
+* 💼 Land a Software Engineer Role
+
+---
+
+# 📚 Currently Learning
 
 * TypeScript
 * Next.js
@@ -170,19 +191,44 @@ A modern developer portfolio showcasing my projects, technical skills, certifica
 
 ---
 
-## 📫 Connect With Me
+# 🤝 Connect With Me
 
-* 📧 **Email:** [mayurrithe2004@gmail.com](mailto:mayurrithe2004@gmail.com)
-* 🌐 **Portfolio:** https://personal-portfolio-1-cqic.onrender.com
-* 💼 **LinkedIn:** https://www.linkedin.com/in/mayur-rithe/
-* 🐙 **GitHub:** github.com/Mayur-Rithe-14
+<div align="center">
+
+<a href="mailto:mayurrithe2004@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mayur-rithe/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Mayur-Rithe-14">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://personal-portfolio-1-cqic.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4F46E5?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 💭 Favorite Quote
+
+<div align="center">
+
+> **"Great software isn't just written—it's thoughtfully engineered."**
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile.
+### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."*
+**If you like my work, consider giving a ⭐ to my repositories.**
 
 </div>
