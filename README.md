@@ -62,7 +62,7 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="100%">
 
 ### 🌐 Languages
 
@@ -74,7 +74,7 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="100%">
 
 ### ⚛️ Frontend
 
@@ -86,7 +86,7 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="100%">
 
 ### ⚙️ Backend
 
