@@ -62,7 +62,7 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 <table>
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 
 ### 🌐 Languages
 
