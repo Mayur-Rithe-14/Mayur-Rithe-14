@@ -58,11 +58,11 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 <i>Technologies I use to build modern, scalable, and production-ready web applications.</i>
 
-<br><br>
+<br>
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="100%">
 
 ### 🌐 Languages
 
@@ -72,11 +72,9 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 <br>
 
-<sub><b>HTML5 • CSS3 • JavaScript</b></sub>
-
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="100%">
 
 ### ⚛️ Frontend
 
@@ -86,11 +84,9 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 <br>
 
-<sub><b>React • Vite • Redux • Tailwind CSS • Bootstrap</b></sub>
-
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="100%">
 
 ### ⚙️ Backend
 
@@ -99,8 +95,6 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 </a>
 
 <br>
-
-<sub><b>Node.js • Express.js • MongoDB</b></sub>
 
 </td>
 </tr>
@@ -119,8 +113,6 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 </a>
 
 <br>
-
-<sub><b>Git • GitHub • VS Code • Postman • Figma • npm</b></sub>
 
 </td>
 </tr>
