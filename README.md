@@ -54,41 +54,19 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-### Languages
-
-<p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js,html,css" />
-</a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,nodejs,express,mongodb,firebase,git,github,vscode,postman,figma,npm&theme=dark&perline=8" />
 </p>
 
-### Frontend
+<p align="center">
 
-<p>
-<a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,bootstrap" />
-</a>
+<b>Languages</b> •
+<b>Frontend</b> •
+<b>Backend</b> •
+<b>Database</b> •
+<b>Developer Tools</b>
+
 </p>
-
-### Backend
-
-<p>
-<a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</a>
-</p>
-
-### Tools
-
-<p>
-<a href="https://github.com/Mayur-Rithe-14">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
-</a>
-</p>
-
-</div>
 ---
 
 ## 🌟 Featured Projects
