@@ -56,19 +56,29 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 <div align="center">
 
-<i>Technologies I use to build modern, scalable, and production-ready web applications.</i>
+> Technologies I use to build scalable and production-ready web applications.
 
 <br>
 
-| 🌐 Languages | ⚛️ Frontend | ⚙️ Backend | 🗄️ Database |
-|:------------:|:-----------:|:----------:|:------------:|
-| <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=react,vite&theme=dark"/> | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/> | <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/> |
+### Languages
 
-<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php&theme=dark"/>
 
-| 🛠️ Tools & Platforms |
-|:---------------------:|
-| <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"/> |
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite&theme=dark"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"/>
 
 </div>
 
