@@ -96,43 +96,135 @@ Tools & Technologies
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-## 🛒 MERN E-Commerce Platform
-
-✔ JWT Authentication
-
-✔ Shopping Cart & Wishlist
-
-✔ Secure Checkout
-
-✔ Order Tracking
-
-✔ Admin Dashboard
-
-✔ Responsive Design
-
-**Stack**
-
-React • Node.js • Express • MongoDB • JWT
+<p align="center">
+  A selection of real-world MERN stack applications built with focus on scalability, UI/UX, and clean architecture.
+</p>
 
 ---
 
-## 🏡 Wanderlust
+<table>
+  <tr>
 
-An Airbnb-inspired property rental platform with secure authentication, property listings, image uploads, reviews, and a modern responsive interface.
+    <!-- Project 1 -->
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 MERN E-Commerce Platform</h3>
+      <p align="center">
+        A full-stack e-commerce app with authentication, cart system, and admin dashboard.
+      </p>
 
----
+      <p align="center">
+        <b>Key Features</b><br/>
+        🔐 JWT Auth • 🛍️ Product Filtering • 🛒 Cart & Wishlist<br/>
+        💳 Checkout Flow • 📦 Orders • 🧑‍💼 Admin Panel
+      </p>
 
-## ✅ Taflow
+      <p align="center">
+        <b>Tech Stack</b><br/>
+        React • Node.js • Express • MongoDB • Redux
+      </p>
 
-Task Management application featuring analytics dashboard, task CRUD operations, authentication, status tracking, and responsive UI.
+      <p align="center">
+        <a href="https://github.com/your-username/ecommerce">
+          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live-Demo-4F8EF7?style=for-the-badge"/>
+        </a>
+      </p>
+    </td>
 
----
+    <!-- Project 2 -->
+    <td width="50%" valign="top">
+      <h3 align="center">🏡 Wanderlust (Airbnb Clone)</h3>
+      <p align="center">
+        A property rental platform with listings, booking flow, and image uploads.
+      </p>
 
-## 🌐 Personal Portfolio
+      <p align="center">
+        <b>Key Features</b><br/>
+        🔑 Auth • 🏠 Listings • 📸 Image Upload<br/>
+        ⭐ Reviews • 🔍 Search • 📱 Responsive UI
+      </p>
 
-A modern portfolio website showcasing my projects, technical skills, certifications, and development journey.
+      <p align="center">
+        <b>Tech Stack</b><br/>
+        React • Node.js • Express • MongoDB • Cloudinary
+      </p>
+
+      <p align="center">
+        <a href="https://github.com/your-username/wanderlust">
+          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live-Demo-4F8EF7?style=for-the-badge"/>
+        </a>
+      </p>
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <!-- Project 3 -->
+    <td width="50%" valign="top">
+      <h3 align="center">✅ Taflow Task Manager</h3>
+      <p align="center">
+        Productivity app for task tracking, analytics, and team management.
+      </p>
+
+      <p align="center">
+        <b>Key Features</b><br/>
+        📌 CRUD Tasks • 👥 Roles • 📊 Dashboard<br/>
+        ⏱️ Status Tracking • 🔔 Updates • 📱 UI
+      </p>
+
+      <p align="center">
+        <b>Tech Stack</b><br/>
+        React • Node.js • Express • MongoDB • Chart.js
+      </p>
+
+      <p align="center">
+        <a href="https://github.com/your-username/taflow">
+          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live-Demo-4F8EF7?style=for-the-badge"/>
+        </a>
+      </p>
+    </td>
+
+    <!-- Project 4 -->
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Personal Portfolio</h3>
+      <p align="center">
+        Developer portfolio showcasing skills, projects, and achievements.
+      </p>
+
+      <p align="center">
+        <b>Key Features</b><br/>
+        🎨 Modern UI • ⚡ Animations • 📂 Projects<br/>
+        📄 Resume • 📬 Contact Form • 📱 Responsive
+      </p>
+
+      <p align="center">
+        <b>Tech Stack</b><br/>
+        React • Tailwind CSS • Framer Motion
+      </p>
+
+      <p align="center">
+        <a href="https://github.com/your-username/portfolio">
+          <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://your-portfolio-link.com">
+          <img src="https://img.shields.io/badge/Live-Portfolio-4F8EF7?style=for-the-badge"/>
+        </a>
+      </p>
+    </td>
+
+  </tr>
+</table>
 
 ---
 
