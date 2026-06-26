@@ -56,17 +56,25 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 <div align="center">
 
-| **🌐 Languages** | **⚛️ Frontend** |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php&theme=dark"/> | <img src="https://skillicons.dev/icons?i=react,vite&theme=dark"/> |
+> Building modern web applications using these technologies.
 
-| **⚙️ Backend** | **🗄️ Database** |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/> | <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/> |
+<br>
 
-| **🛠️ Tools & Platforms** |
-|:---:|
-| <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"/> |
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php&theme=dark"/>
+
+**Languages**
+
+---
+
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,mysql&theme=dark"/>
+
+**Full Stack Development**
+
+---
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"/>
+
+**Developer Tools**
 
 </div>
 
