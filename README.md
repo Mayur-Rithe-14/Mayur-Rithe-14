@@ -54,19 +54,38 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 ## 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,nodejs,express,mongodb,firebase,git,github,vscode,postman,figma,npm&theme=dark&perline=8" />
+<div align="center">
+
+<p>
+<i>Building modern, scalable, and user-centric web applications with these technologies.</i>
 </p>
 
-<p align="center">
+<br>
 
-<b>Languages</b> •
-<b>Frontend</b> •
-<b>Backend</b> •
-<b>Database</b> •
-<b>Developer Tools</b>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Languages-181717?style=flat-square"/>
 
-</p>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,bootstrap&theme=dark" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Frontend-181717?style=flat-square"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Backend-181717?style=flat-square"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm&theme=dark" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Developer_Tools-181717?style=flat-square"/>
+
+</div>
+
 ---
 
 ## 🌟 Featured Projects
