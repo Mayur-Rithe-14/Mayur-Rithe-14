@@ -168,6 +168,16 @@ A modern portfolio website showcasing my projects, technical skills, certificati
 
 ---
 
+🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
 # 🎯 2026 Goals
 
 * ✅ Build 10+ Production-Ready MERN Projects
