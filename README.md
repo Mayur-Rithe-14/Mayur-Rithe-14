@@ -9,7 +9,7 @@ Full-Stack MERN Developer • JavaScript Enthusiast • Building Modern Web Appl
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;React+•+Node.js+•+MongoDB;Building+Scalable+Web+Applications;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;MongoDB+•+Express+•+React+•+Node.js;Building+Scalable+Web+Applications;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ I'm a **Full-Stack MERN Developer** from **India** passionate about building fas
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,nodejs,express,mongodb,git,github,postman,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,html,html,html,html,html,html,html,html,html,html,html,html,html,html,css,js,react,vite,redux,nodejs,express,mongodb,git,github,postman,vscode"/>
 
 </p>
 
