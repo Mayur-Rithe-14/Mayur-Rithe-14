@@ -12,7 +12,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Crafting+Modern+Web+Applications;Always+Learning+New+Technologies;Open+to+Software+Engineering+Opportunities"/>
 
-<br><br>
+<br>
 
 <a href="mailto:mayurrithe2004@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
