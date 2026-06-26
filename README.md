@@ -98,16 +98,6 @@ I'm a **Full-Stack MERN Developer** from **India** passionate about building fas
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mayur-Rithe-14&theme=algolia&no-frame=true&margin-w=12"/>
-
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="center">
