@@ -56,54 +56,78 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 <div align="center">
 
-<i>Technologies I work with to build modern, scalable, and production-ready applications.</i>
+<i>Technologies I use to build modern, scalable, and production-ready web applications.</i>
 
-</div>
-
-<br>
+<br><br>
 
 <table>
 <tr>
+<td align="center" width="33%">
 
-<td width="50%" valign="top" align="center">
+### 🌐 Languages
 
-### 💻 Languages
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php&theme=dark" />
+<br>
+
+<sub><b>HTML5 • CSS3 • JavaScript</b></sub>
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td align="center" width="33%">
 
 ### ⚛️ Frontend
 
-<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" />
+<a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,bootstrap&theme=dark" />
+</a>
+
+<br>
+
+<sub><b>React • Vite • Redux • Tailwind CSS • Bootstrap</b></sub>
 
 </td>
 
+<td align="center" width="33%">
+
+### ⚙️ Backend
+
+<a href="https://nodejs.org/">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+</a>
+
+<br>
+
+<sub><b>Node.js • Express.js • MongoDB</b></sub>
+
+</td>
 </tr>
 
 <tr>
+<td colspan="3" height="20"></td>
+</tr>
 
-<td width="50%" valign="top" align="center">
+<tr>
+<td align="center" colspan="3">
 
-### ⚙️ Backend & Database
+### 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+<a href="https://github.com/Mayur-Rithe-14">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm&theme=dark" />
+</a>
+
+<br>
+
+<sub><b>Git • GitHub • VS Code • Postman • Figma • npm</b></sub>
 
 </td>
-
-<td width="50%" valign="top" align="center">
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" />
-
-</td>
-
 </tr>
 
 </table>
+
+</div>
 
 
 ---
