@@ -32,15 +32,23 @@ Full-Stack MERN Developer • JavaScript Enthusiast • Building Modern Web Appl
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-I'm a **Full-Stack MERN Developer** from **India** passionate about building fast, scalable, and user-friendly web applications.
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- 💻 Building production-ready MERN applications
-- 🚀 Exploring Next.js & TypeScript
-- 📚 Learning System Design & Backend Architecture
-- 🌱 Improving DSA & Problem Solving
-- 🤝 Open to internships and collaboration
+I'm **Mayur Rithe**, a passionate **Full-Stack MERN Developer** from India who enjoys transforming ideas into scalable, high-performance web applications.
+
+I focus on writing clean, maintainable code while creating intuitive user experiences and robust backend systems.
+
+### What I'm Doing
+
+- 🚀 Building production-ready Full-Stack MERN applications
+- 🌱 Learning **Next.js**, **TypeScript**, and **System Design**
+- 💡 Exploring scalable backend architecture & REST APIs
+- 📚 Practicing Data Structures & Algorithms
+- 🤝 Open to internships, freelance projects, and open-source contributions
+
+> **"Great software is built by continuously learning, improving, and solving real-world problems."**
 
 ---
 
