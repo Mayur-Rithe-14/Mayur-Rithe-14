@@ -199,35 +199,31 @@ Developer portfolio showcasing projects, skills, and contact information with sm
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
-<i>I'm always open to collaborating on exciting projects, discussing new ideas, or connecting with fellow developers.</i>
+> Let's build something amazing together.
 
-<br><br>
+<br>
 
 <a href="mailto:mayurrithe2004@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Mayur-Rithe-14">
-  <img src="https://skillicons.dev/icons?i=github" height="48" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<a href="https://personal-portfolio-1-cqic.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge" />
+<a href="https://personal-portfolio-1-cqic.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-16A34A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
-
 ---
 
 <div align="center">
