@@ -74,8 +74,6 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 <br>
 
-<sub><b>HTML • CSS • JavaScript • Java • Python • C • C++ • PHP</b></sub>
-
 </td>
 
 <td align="center" width="25%">
@@ -87,8 +85,6 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 </a>
 
 <br>
-
-<sub><b>React • Vite</b></sub>
 
 </td>
 
@@ -102,8 +98,6 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 <br>
 
-<sub><b>Node.js • Express.js</b></sub>
-
 </td>
 
 <td align="center" width="25%">
@@ -115,8 +109,6 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 </a>
 
 <br>
-
-<sub><b>MongoDB • MySQL</b></sub>
 
 </td>
 
@@ -137,8 +129,6 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 </a>
 
 <br>
-
-<sub><b>Git • GitHub • VS Code • Postman • npm</b></sub>
 
 </td>
 
