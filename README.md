@@ -106,8 +106,6 @@ Tools & Technologies
 
 <table>
   <tr>
-
-    <!-- Project 1 -->
     <td width="50%" valign="top">
       <h3 align="center">🛒 MERN E-Commerce Platform</h3>
       <p align="center">
@@ -134,8 +132,6 @@ Tools & Technologies
         </a>
       </p>
     </td>
-
-    <!-- Project 2 -->
     <td width="50%" valign="top">
       <h3 align="center">🏡 Wanderlust (Airbnb Clone)</h3>
       <p align="center">
