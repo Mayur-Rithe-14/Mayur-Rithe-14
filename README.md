@@ -52,91 +52,36 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 ---
 
-## 💻 Tech Stack
+## ⚒️ Developer Toolkit
 
-<p align="center">
+### Languages
 
-<table align="center">
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-<tr>
+### Frameworks & Libraries
 
-<td align="center" width="33%">
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
-<h3>Frontend</h3>
+### Backend & Database
 
-<p>
-<a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react,vite" />
-</a>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
-<p>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</a>
-</p>
+### Development Tools
 
-<p>
-<a href="https://redux.js.org/">
-<img src="https://skillicons.dev/icons?i=redux,tailwind,bootstrap" />
-</a>
-</p>
-
-</td>
-
-<td align="center" width="33%">
-
-<h3>Backend</h3>
-
-<p>
-<a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</a>
-</p>
-
-<p>
-<a href="https://www.mongodb.com/">
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</a>
-</p>
-
-<p>
-<a href="https://firebase.google.com/">
-<img src="https://skillicons.dev/icons?i=firebase" />
-</a>
-</p>
-
-</td>
-
-<td align="center" width="33%">
-
-<h3>Tools & Platforms</h3>
-
-<p>
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git,github" />
-</a>
-</p>
-
-<p>
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode,postman" />
-</a>
-</p>
-
-<p>
-<a href="https://www.figma.com/">
-<img src="https://skillicons.dev/icons?i=figma,npm" />
-</a>
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-</p>
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 ---
 
