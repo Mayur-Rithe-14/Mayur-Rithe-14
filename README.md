@@ -86,41 +86,141 @@ I love creating scalable backend systems, beautiful user interfaces, and writing
 
 ---
 
-# 🌟 Featured Projects
+# 🌟 # Featured Projects
 
-## 🛒 MERN E-Commerce Platform
+<table>
 
-A production-ready e-commerce application with secure authentication, shopping cart, wishlist, order management, payment-ready architecture, and admin dashboard.
+<tr>
 
-**Tech Stack**
+<td width="50%">
 
-React • Node.js • Express • MongoDB • JWT
+### MERN E-Commerce Platform
 
----
+A full-stack e-commerce application built with the MERN stack, designed to deliver a seamless online shopping experience with secure authentication, responsive UI, and a powerful admin dashboard.
 
-## 🏡 Wanderlust
+**Highlights**
 
-An Airbnb-inspired vacation rental platform featuring property listings, reviews, authentication, and responsive design.
-
-**Tech Stack**
-
-Node.js • Express • MongoDB • EJS
-
----
-
-## ✅ Taflow
-
-A modern Task Management application with analytics dashboard, authentication, task management, and responsive UI.
+* Secure JWT Authentication
+* Product Search & Category Filters
+* Shopping Cart & Wishlist
+* Order Management
+* Admin Dashboard
+* Responsive Design
 
 **Tech Stack**
 
-React • Node.js • Express • MongoDB
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `REST API`
 
----
+<br>
 
-## 🌐 Personal Portfolio
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
-My personal portfolio website showcasing projects, skills, certifications, and development journey.
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### Wanderlust
+
+A modern vacation rental platform inspired by Airbnb, allowing users to browse, create, and manage property listings with reviews and image uploads.
+
+**Highlights**
+
+* User Authentication
+* Property Listings
+* Image Uploads
+* Reviews & Ratings
+* Responsive Interface
+* CRUD Operations
+
+**Tech Stack**
+
+`Node.js` `Express.js` `MongoDB` `EJS`
+
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### Taflow
+
+A productivity-focused task management application that helps users organize work efficiently through an intuitive dashboard and secure authentication.
+
+**Highlights**
+
+* JWT Authentication
+* Dashboard Analytics
+* Task CRUD Operations
+* Status Management
+* Responsive Design
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB`
+
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### Personal Portfolio
+
+A modern developer portfolio designed to showcase projects, technical skills, certifications, and contact information with smooth animations and responsive layouts.
+
+**Highlights**
+
+* Modern UI/UX
+* Responsive Design
+* Project Showcase
+* Smooth Animations
+* Contact Form
+
+**Tech Stack**
+
+`React` `Vite` `CSS3` `Framer Motion`
+
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
