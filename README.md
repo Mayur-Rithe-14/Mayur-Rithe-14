@@ -52,13 +52,51 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
+
+<table>
+
+<tr>
+
+<td valign="top" width="33%">
+
+### Frontend
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mongodb,java,python,php,c,cpp,git,github,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,tailwind,bootstrap" />
 
 </p>
+
+</td>
+
+<td valign="top" width="33%">
+
+### Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+
+</p>
+
+</td>
+
+<td valign="top" width="33%">
+
+### Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
