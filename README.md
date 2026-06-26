@@ -55,22 +55,20 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 ## 💻 Tech Stack
 
 <p align="center">
-  <i>Technologies and tools I use to build scalable, performant, and user-focused web applications.</i>
+  <i>Technologies and tools I use to design, build, and deploy modern web applications.</i>
 </p>
 
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,nodejs,express,mongodb,git,github,vscode,postman,figma,npm&theme=dark&perline=8" />
+    <img
+      src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php,mysql,react,vite,nodejs,express,mongodb,git,github,vscode,postman,npm&theme=dark&perline=8"
+      alt="Tech Stack"
+    />
   </a>
 </p>
 
-<p align="center">
-  <sub>
-    Always learning • Currently exploring <b>TypeScript</b>, <b>Next.js</b>, <b>Docker</b>, and <b>AWS</b>
-  </sub>
-</p>
 
 ---
 
