@@ -100,29 +100,110 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 ---
 
-# 🚀 Featured Projects
+## 🌟 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|------|
-| **🛒 MERN E-Commerce** | Modern full-stack shopping platform with JWT authentication, admin dashboard, wishlist, cart, orders and responsive UI. | React • Node • Express • MongoDB |
-| **📋 Taflow** | Productivity-focused task management application with authentication, analytics dashboard and CRUD operations. | React • Node • MongoDB |
-| **🏡 Wanderlust** | Airbnb-inspired rental platform with authentication, listings, reviews, image uploads and CRUD functionality. | Node • Express • MongoDB • EJS |
+<table>
 
-<p align="center">
+<tr>
 
-<a href="YOUR_ECOMMERCE_REPO">
-<img src="https://img.shields.io/badge/E-Commerce-Repository-181717?style=for-the-badge&logo=github"/>
+<td width="50%">
+
+### 🛒 MERN E-Commerce
+
+Modern full-stack online shopping platform with authentication, wishlist, cart, payment flow, and an admin dashboard.
+
+**Tech**
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+`JWT`
+
+<a href="YOUR_REPO">
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/>
 </a>
 
-<a href="YOUR_TASKFLOW_REPO">
-<img src="https://img.shields.io/badge/Taflow-Repository-181717?style=for-the-badge&logo=github"/>
+<a href="YOUR_LIVE">
+<img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=flat-square"/>
 </a>
 
-<a href="YOUR_WANDERLUST_REPO">
-<img src="https://img.shields.io/badge/Wanderlust-Repository-181717?style=for-the-badge&logo=github"/>
+</td>
+
+<td width="50%">
+
+### 📋 Taflow
+
+A modern task management platform focused on productivity with analytics, authentication, and responsive UI.
+
+**Tech**
+
+`React`
+`Node.js`
+`MongoDB`
+
+<a href="YOUR_REPO">
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/>
 </a>
 
-</p>
+<a href="YOUR_LIVE">
+<img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=flat-square"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏡 Wanderlust
+
+Airbnb-inspired vacation rental platform featuring listings, reviews, image uploads, and user authentication.
+
+**Tech**
+
+`Node.js`
+`Express`
+`MongoDB`
+`EJS`
+
+<a href="YOUR_REPO">
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/>
+</a>
+
+<a href="YOUR_LIVE">
+<img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=flat-square"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌐 Personal Portfolio
+
+Developer portfolio showcasing projects, skills, and contact information with smooth animations and responsive layouts.
+
+**Tech**
+
+`React`
+`Vite`
+`Framer Motion`
+
+<a href="YOUR_REPO">
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/>
+</a>
+
+<a href="YOUR_LIVE">
+<img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=flat-square"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
