@@ -57,7 +57,7 @@ I love creating scalable backend systems, beautiful user interfaces, and writing
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,c++,python,php,java"/>
 </p>
 
 ### Frontend
