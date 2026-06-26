@@ -56,25 +56,76 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 <div align="center">
 
-> Building modern web applications using these technologies.
+<i>Technologies I use to build modern, scalable, and production-ready web applications.</i>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🌐 Languages
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</a>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php&theme=dark"/>
+<sub><b>HTML5 • CSS3 • JavaScript</b></sub>
 
-**Languages**
+</td>
 
----
+<td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,mysql&theme=dark"/>
+### ⚛️ Frontend
 
-**Full Stack Development**
+<a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,bootstrap&theme=dark" />
+</a>
 
----
+<br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"/>
+<sub><b>React • Vite • Redux • Tailwind CSS • Bootstrap</b></sub>
 
-**Developer Tools**
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Backend
+
+<a href="https://nodejs.org/">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+</a>
+
+<br>
+
+<sub><b>Node.js • Express.js • MongoDB</b></sub>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="3" height="20"></td>
+</tr>
+
+<tr>
+<td align="center" colspan="3">
+
+### 🛠️ Tools & Platforms
+
+<a href="https://github.com/Mayur-Rithe-14">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm&theme=dark" />
+</a>
+
+<br>
+
+<sub><b>Git • GitHub • VS Code • Postman • Figma • npm</b></sub>
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
