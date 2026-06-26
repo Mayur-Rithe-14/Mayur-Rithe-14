@@ -224,6 +224,7 @@ Developer portfolio showcasing projects, skills, and contact information with sm
 </a>
 
 </div>
+
 ---
 
 <div align="center">
