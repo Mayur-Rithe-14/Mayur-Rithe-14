@@ -56,33 +56,76 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 <div align="center">
 
-<p>
-<i>Building modern, scalable, and user-centric web applications with these technologies.</i>
-</p>
+<i>Technologies I use to build modern, scalable, and production-ready web applications.</i>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🌐 Languages
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</a>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Languages-181717?style=flat-square"/>
+<sub><b>HTML5 • CSS3 • JavaScript</b></sub>
 
-<br><br>
+</td>
 
-<img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,bootstrap&theme=dark" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Frontend-181717?style=flat-square"/>
+<td align="center" width="33%">
 
-<br><br>
+### ⚛️ Frontend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Backend-181717?style=flat-square"/>
+<a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,bootstrap&theme=dark" />
+</a>
 
-<br><br>
+<br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm&theme=dark" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Developer_Tools-181717?style=flat-square"/>
+<sub><b>React • Vite • Redux • Tailwind CSS • Bootstrap</b></sub>
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Backend
+
+<a href="https://nodejs.org/">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+</a>
+
+<br>
+
+<sub><b>Node.js • Express.js • MongoDB</b></sub>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="3" height="20"></td>
+</tr>
+
+<tr>
+<td align="center" colspan="3">
+
+### 🛠️ Tools & Platforms
+
+<a href="https://github.com/Mayur-Rithe-14">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm&theme=dark" />
+</a>
+
+<br>
+
+<sub><b>Git • GitHub • VS Code • Postman • Figma • npm</b></sub>
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
