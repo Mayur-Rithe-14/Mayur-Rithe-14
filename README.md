@@ -30,16 +30,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Mayur-Rithe-14&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/Mayur-Rithe-14?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Mayur-Rithe-14?style=for-the-badge"/>
-
-</div>
-
 ---
 
 # 🚀 About Me
