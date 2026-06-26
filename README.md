@@ -1,135 +1,218 @@
-# Hi there, I'm Mayur Rithe 👋
+<!-- Banner -->
 
-## 💫 About Me
+<h1 align="center">Hi, I'm Mayur Rithe</h1>
 
-I'm a passionate **Full-Stack MERN Developer** from **India** who enjoys building modern, scalable, and responsive web applications.
+<h3 align="center">
+Full-Stack MERN Developer • JavaScript Enthusiast • Lifelong Learner
+</h3>
 
-I love transforming ideas into real-world applications using the **MERN Stack** while continuously learning new technologies and improving my development skills.
+<p align="center">
+Building scalable web applications with modern technologies and clean user experiences.
+</p>
 
-* 🔭 Currently working on **Full-Stack MERN Projects**
-* 🌱 Learning **Advanced React, Backend Architecture & System Design**
-* 💻 Interested in **Web Development, UI/UX and Open Source**
-* 🎯 Goal: Become a Professional Software Engineer
-* ⚡ Fun Fact: I enjoy turning coffee into clean code ☕
+<p align="center">
+
+<a href="https://github.com/Mayur-Rithe-14">
+<img src="https://komarev.com/ghpvc/?username=Mayur-Rithe-14&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+
+<a href="https://github.com/Mayur-Rithe-14?tab=followers">
+<img src="https://img.shields.io/github/followers/Mayur-Rithe-14?style=flat&logo=github" />
+</a>
+
+<a href="https://github.com/Mayur-Rithe-14">
+<img src="https://img.shields.io/github/stars/Mayur-Rithe-14?affiliations=OWNER&style=flat" />
+</a>
+
+</p>
 
 ---
 
-## 🚀 Tech Stack
+# About Me
+
+I'm a passionate **Full-Stack MERN Developer** from India who enjoys building responsive, scalable, and user-friendly web applications.
+
+I enjoy solving real-world problems through code and continuously improving my development skills by building production-ready projects.
+
+### Current Focus
+
+* Building Full-Stack MERN Applications
+* Learning System Design
+* Exploring Next.js & TypeScript
+* Practicing Data Structures & Algorithms
+* Contributing to Open Source
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+</p>
 
 ### Frontend
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* React Router
-* Tailwind CSS
-* Bootstrap
-* Framer Motion
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+
+</p>
 
 ### Backend
 
-* Node.js
-* Express.js
-* REST APIs
-* JWT Authentication
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</p>
 
 ### Database
 
-* MongoDB
-* Mongoose
+<p>
 
-### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
-* Git
-* GitHub
-* VS Code
-* Postman
-* MongoDB Atlas
-* Render
-* Netlify
-* Vercel
+</p>
 
----
+### Tools
 
-# 📂 Featured Projects
+<p>
 
-### 🛒 MERN E-Commerce Website
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 
-A complete Full-Stack E-Commerce platform featuring secure authentication, shopping cart, wishlist, order management, admin dashboard, and responsive UI.
-
-**Tech Stack:** React • Node.js • Express • MongoDB • JWT
+</p>
 
 ---
 
-### 🏡 Wanderlust (Airbnb Clone)
+# Featured Projects
 
-A modern vacation rental platform inspired by Airbnb.
+### MERN E-Commerce Website
 
-**Features**
+A production-ready e-commerce platform featuring authentication, shopping cart, wishlist, secure checkout, order management, and an admin dashboard.
 
-* Authentication
-* Property Listings
-* Image Upload
-* Reviews
-* Responsive Design
+**Tech**
 
-**Tech Stack:** Node.js • Express • MongoDB • EJS
+React • Node.js • Express • MongoDB • JWT
 
 ---
 
-### ✅ Taflow – Task Management App
+### Wanderlust
 
-A productivity application for managing daily tasks.
+A modern Airbnb-inspired property rental platform with authentication, reviews, image uploads, and responsive design.
 
-**Features**
+**Tech**
 
-* JWT Authentication
-* Task CRUD
-* Dashboard Analytics
-* Status Tracking
-* Responsive UI
-
-**Tech Stack:** React • Node.js • Express • MongoDB
+Node.js • Express • MongoDB • EJS
 
 ---
 
-### 🌐 Personal Portfolio
+### Taflow
 
-A responsive developer portfolio showcasing my skills, projects, certifications, and contact information.
+Task Management application with JWT authentication, analytics dashboard, task CRUD operations, filtering, and responsive UI.
+
+**Tech**
+
+React • Node.js • Express • MongoDB
 
 ---
 
-## 📈 Currently Learning
+### Portfolio Website
+
+A responsive developer portfolio showcasing my projects, skills, certifications, and contact information.
+
+---
+
+# Currently Learning
 
 * TypeScript
 * Next.js
 * Redux Toolkit
 * Docker
+* AWS Basics
 * System Design
-* Data Structures & Algorithms
 
 ---
 
-## 📫 Connect With Me
+# GitHub Analytics
 
-📧 Email: **[mayurrithe2004@gmail.com](mailto:mayurrithe2004@gmail.com)**
+<p align="center">
 
-🌐 Portfolio:
-**https://personal-portfolio-1-cqic.onrender.com**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayur-Rithe-14&show_icons=true&theme=github_dark&hide_border=true"/>
 
-💼 LinkedIn:
-**Add your LinkedIn profile here**
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur-Rithe-14&theme=github-dark&hide_border=true"/>
 
-🐙 GitHub:
-**https://github.com/Mayur-Rithe-14**
+</p>
 
----
+<p align="center">
 
-## 💡 Developer Quote
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Rithe-14&layout=compact&theme=github_dark&hide_border=true"/>
 
-> "Code. Learn. Build. Improve. Repeat."
+</p>
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+# GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Rithe-14&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mayur-Rithe-14&theme=darkhub&margin-w=15&no-frame=true"/>
+
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# Connect
+
+<p>
+
+<a href="mailto:mayurrithe2004@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://personal-portfolio-1-cqic.onrender.com">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+<a href="https://github.com/Mayur-Rithe-14">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<!-- Replace with your LinkedIn URL -->
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### *"Building clean, scalable, and impactful digital experiences."*
+
+</div>
