@@ -36,20 +36,27 @@ Full-Stack MERN Developer • JavaScript Enthusiast • Building Modern Web Appl
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-I'm **Mayur Rithe**, a passionate **Full-Stack MERN Developer** from India who enjoys transforming ideas into scalable, high-performance web applications.
+Hi, I'm **Mayur Rithe** 👋
 
-I focus on writing clean, maintainable code while creating intuitive user experiences and robust backend systems.
+I'm a **Full-Stack MERN Developer** from **India**, passionate about building modern, scalable, and user-centric web applications. I enjoy turning ideas into real-world products by combining intuitive frontend experiences with efficient backend architecture.
 
-### What I'm Doing
+My primary focus is writing clean, maintainable code while following best practices to create applications that are fast, secure, and easy to scale.
 
-- 🚀 Building production-ready Full-Stack MERN applications
-- 🌱 Learning **Next.js**, **TypeScript**, and **System Design**
-- 💡 Exploring scalable backend architecture & REST APIs
-- 📚 Practicing Data Structures & Algorithms
-- 🤝 Open to internships, freelance projects, and open-source contributions
+### 🎯 Current Focus
 
-> **"Great software is built by continuously learning, improving, and solving real-world problems."**
+- 🚀 Building production-ready **MERN Stack** applications
+- 📖 Learning **Next.js**, **TypeScript**, and **System Design**
+- ⚡ Improving backend architecture, REST APIs, and database design
+- 🧩 Strengthening **Data Structures & Algorithms** and problem-solving skills
+- 🌍 Contributing to open-source projects and continuously expanding my technical expertise
 
+### 💡 Beyond Coding
+
+- 📚 Passionate about learning new technologies and industry best practices
+- 🎨 Interested in crafting clean, responsive, and accessible user interfaces
+- 🤝 Always open to collaborating on innovative projects and connecting with fellow developers
+
+> **"Code with purpose. Learn continuously. Build products that make an impact."**
 ---
 
 ## 💻 Tech Stack
