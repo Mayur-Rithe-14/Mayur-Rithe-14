@@ -54,50 +54,21 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 ## 💻 Tech Stack
 
-<details open>
-<summary><b>🌐 Languages</b></summary>
+<div align="center">
 
-<br>
+| **🌐 Languages** | **⚛️ Frontend** |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php&theme=dark"/> | <img src="https://skillicons.dev/icons?i=react,vite&theme=dark"/> |
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php&theme=dark"/>
+| **⚙️ Backend** | **🗄️ Database** |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/> | <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/> |
 
-</details>
+| **🛠️ Tools & Platforms** |
+|:---:|
+| <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"/> |
 
-<details open>
-<summary><b>⚛️ Frontend</b></summary>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,vite&theme=dark"/>
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
-
-</details>
-
-<details open>
-<summary><b>🗄️ Database</b></summary>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
-
-</details>
-
-<details open>
-<summary><b>🛠️ Tools</b></summary>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"/>
-
-</details>
+</div>
 
 ---
 
