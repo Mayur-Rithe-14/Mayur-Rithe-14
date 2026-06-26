@@ -56,7 +56,7 @@ I enjoy learning new technologies, improving my problem-solving skills, and crea
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mongodb,sql,JDBC"/>
 
 </p>
 
@@ -64,7 +64,7 @@ I enjoy learning new technologies, improving my problem-solving skills, and crea
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,render,vercel"/>
 
 </p>
 
@@ -152,7 +152,7 @@ A modern developer portfolio showcasing my projects, technical skills, certifica
 
 * 📧 **Email:** [mayurrithe2004@gmail.com](mailto:mayurrithe2004@gmail.com)
 * 🌐 **Portfolio:** https://personal-portfolio-1-cqic.onrender.com
-* 💼 **LinkedIn:** Add your LinkedIn profile
+* 💼 **LinkedIn:** https://www.linkedin.com/in/mayur-rithe/
 * 🐙 **GitHub:** github.com/Mayur-Rithe-14
 
 ---
