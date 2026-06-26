@@ -48,7 +48,7 @@ I'm a **Full-Stack MERN Developer** from **India** passionate about building fas
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,html,html,html,html,html,html,html,html,html,html,html,html,html,html,css,js,react,vite,redux,nodejs,express,mongodb,git,github,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mongodb,java,python,php,c,cpp,git,github,postman,vscode"/>
 
 </p>
 
