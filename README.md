@@ -60,10 +60,11 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 <br><br>
 
-<table>
+<table width="100%">
+
 <tr>
 
-<td align="center" valign="top" width="70%">
+<td width="50%" align="center" valign="top">
 
 ### 🌐 Languages
 
@@ -75,7 +76,7 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 </td>
 
-<td align="center" valign="top" width="70%">
+<td width="50%" align="center" valign="top">
 
 ### ⚛️ Frontend
 
@@ -90,13 +91,8 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 </tr>
 
 <tr>
-<td height="35"></td>
-<td></td>
-</tr>
 
-<tr>
-
-<td align="center" valign="top" width="70%">
+<td width="50%" align="center" valign="top">
 
 ### ⚙️ Backend
 
@@ -108,7 +104,7 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 </td>
 
-<td align="center" valign="top" width="70%">
+<td width="50%" align="center" valign="top">
 
 ### 🗄️ Database
 
@@ -123,13 +119,8 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 </tr>
 
 <tr>
-<td height="35"></td>
-<td></td>
-</tr>
 
-<tr>
-
-<td align="center" colspan="2">
+<td colspan="2" align="center">
 
 ### 🛠️ Tools & Platforms
 
@@ -146,7 +137,6 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 </table>
 
 </div>
-
 ---
 
 ## 🌟 Featured Projects
