@@ -54,33 +54,50 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-> Technologies I use to build scalable and production-ready web applications.
+<details open>
+<summary><b>🌐 Languages</b></summary>
 
 <br>
 
-### Languages
-
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php&theme=dark"/>
 
-### Frontend
+</details>
+
+<details open>
+<summary><b>⚛️ Frontend</b></summary>
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=react,vite&theme=dark"/>
 
-### Backend
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
-### Database
+</details>
+
+<details open>
+<summary><b>🗄️ Database</b></summary>
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
 
-### Tools
+</details>
+
+<details open>
+<summary><b>🛠️ Tools</b></summary>
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"/>
 
-</div>
+</details>
 
 ---
 
