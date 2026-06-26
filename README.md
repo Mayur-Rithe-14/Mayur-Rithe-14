@@ -56,7 +56,7 @@ I enjoy learning new technologies, improving my problem-solving skills, and crea
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,sql,JDBC"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
 </p>
 
@@ -64,7 +64,7 @@ I enjoy learning new technologies, improving my problem-solving skills, and crea
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,render,vercel"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 
 </p>
 
