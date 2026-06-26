@@ -1,153 +1,187 @@
-<!-- ======================================================= -->
+<!-- ========================================================= -->
 
-<!--                  GITHUB PROFILE README                   -->
+<!--                 PREMIUM GLASSMORPHISM README              -->
 
-<!-- ======================================================= -->
-
-<h1 align="center">Hi 👋, I'm Mayur Rithe</h1>
+<!-- ========================================================= -->
 
 <p align="center">
-<b>Full-Stack MERN Developer</b> • JavaScript Enthusiast • Software Engineering Aspirant
+
+<img src="YOUR_CUSTOM_BANNER_HERE" width="100%" />
+
+</p>
+
+<h1 align="center">
+Mayur Rithe
+</h1>
+
+<p align="center">
+<b>Full-Stack MERN Developer</b>
+<br>
+Building modern, scalable and user-centric web applications.
 </p>
 
 <p align="center">
-Building modern, scalable, and user-friendly web applications with clean code and responsive design.
-</p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies;Building+Real-World+Projects"/>
+<img src="https://komarev.com/ghpvc/?username=Mayur-Rithe-14&style=flat-square"/>
+
+<img src="https://img.shields.io/github/followers/Mayur-Rithe-14?style=flat-square"/>
+
+<img src="https://img.shields.io/github/stars/Mayur-Rithe-14?style=flat-square"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# ✨ About Me
 
-I'm a passionate **Full-Stack MERN Developer** from **India** who enjoys turning ideas into scalable and user-friendly web applications.
+```txt
+👨‍💻 Full-Stack MERN Developer
 
-* 💻 Passionate about Full-Stack Web Development
-* 🌱 Currently learning **Next.js, TypeScript & System Design**
-* 📚 Improving **Data Structures & Algorithms**
-* 🎯 Goal: Become a Software Engineer
-* ⚡ Love building real-world projects
+📍 India
+
+💡 Passionate about building scalable web applications
+
+🚀 Always learning modern technologies
+
+🎯 Goal:
+Become a Software Engineer and contribute to impactful products.
+```
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![C](https://img.shields.io/badge/C-blue?style=flat-square)
+![C++](https://img.shields.io/badge/C++-blue?style=flat-square)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square)
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square)
+
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square)
+
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square)
+
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square)
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+Git • GitHub • VS Code • Postman
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 MERN E-Commerce Website
+## 🛒 MERN E-Commerce Platform
 
-A full-featured e-commerce platform with authentication, shopping cart, wishlist, secure checkout, order tracking, and admin dashboard.
-
-**Tech:** React • Node.js • Express • MongoDB • JWT
+Modern shopping experience with authentication, cart, wishlist, secure checkout and admin dashboard.
 
 ---
 
-### 🏡 Wanderlust
+## 🏡 Wanderlust
 
-An Airbnb-inspired vacation rental platform featuring authentication, property listings, reviews, image uploads, and responsive design.
-
-**Tech:** Node.js • Express • MongoDB • EJS
+Airbnb-inspired rental platform with authentication, property listings and reviews.
 
 ---
 
-### ✅ Taflow – Task Management
+## ✅ Taflow
 
-A productivity application with task management, analytics dashboard, authentication, and responsive UI.
-
-**Tech:** React • Node.js • Express • MongoDB
+Task Management application with dashboard analytics and JWT authentication.
 
 ---
 
-### 🌐 Personal Portfolio
+## 🌐 Portfolio Website
 
-A modern developer portfolio showcasing my projects, skills, and technical journey.
+Responsive portfolio showcasing projects and technical skills.
 
 ---
 
-## 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mayur-Rithe-14&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayur-Rithe-14&theme=transparent&show_icons=true&hide_border=true"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur-Rithe-14&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Mayur-Rithe-14&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Rithe-14&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Rithe-14&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Rithe-14&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Rithe-14&theme=github-compact&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 Current Goals
 
-* 🚀 Build 10+ Production-Ready MERN Applications
-* 🌍 Contribute to Open Source
-* ⚛️ Master Next.js & TypeScript
+* 🚀 Build production-ready applications
+* ⚛️ Learn Next.js
+* 📘 Master TypeScript
 * ☁️ Learn Docker & AWS
-* 💼 Secure a Software Engineer role
+* 🌍 Contribute to Open Source
 
 ---
 
-## 📫 Contact
+# 📬 Contact
 
-* 📧 **Email:** `mayurrithe2004@gmail.com`
-* 🌐 **Portfolio:** `https://personal-portfolio-1-cqic.onrender.com`
-* 💼 **LinkedIn:** *Add your LinkedIn profile*
+**Email**
+
+```text
+mayurrithe2004@gmail.com
+```
+
+**Portfolio**
+
+```text
+https://personal-portfolio-1-cqic.onrender.com
+```
+
+**GitHub**
+
+```text
+github.com/Mayur-Rithe-14
+```
+
+**LinkedIn**
+
+```text
+Add Your LinkedIn URL
+```
 
 ---
 
 <p align="center">
-<i>"Code with purpose. Learn continuously. Build products that make an impact."</i>
+
+### ✨ *"Code. Create. Learn. Repeat."*
+
 </p>
