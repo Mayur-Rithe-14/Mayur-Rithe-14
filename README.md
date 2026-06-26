@@ -86,7 +86,7 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 </td>
 
-<td align="center" width="100%">
+<td align="center" width="500%">
 
 ### ⚙️ Backend
 
