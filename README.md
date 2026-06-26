@@ -61,74 +61,83 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 <br><br>
 
 <table>
-
 <tr>
 
-<td align="center" width="25%">
+<td align="center" valign="top" width="50%">
 
 ### 🌐 Languages
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php&theme=dark" />
-</a>
-
 <br>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php&theme=dark&perline=4" />
+</a>
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" valign="top" width="50%">
 
 ### ⚛️ Frontend
 
-<a href="https://react.dev/">
-  <img src="https://skillicons.dev/icons?i=react,vite&theme=dark" />
-</a>
-
 <br>
+
+<a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react,vite&theme=dark&perline=4" />
+</a>
 
 </td>
 
-<td align="center" width="25%">
+</tr>
+
+<tr>
+<td height="35"></td>
+<td></td>
+</tr>
+
+<tr>
+
+<td align="center" valign="top" width="50%">
 
 ### ⚙️ Backend
 
-<a href="https://nodejs.org/">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-</a>
-
 <br>
+
+<a href="https://nodejs.org/">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=4" />
+</a>
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" valign="top" width="50%">
 
 ### 🗄️ Database
 
-<a href="https://www.mongodb.com/">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-</a>
-
 <br>
+
+<a href="https://www.mongodb.com/">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=4" />
+</a>
 
 </td>
 
 </tr>
 
 <tr>
-<td colspan="4" height="20"></td>
+<td height="35"></td>
+<td></td>
 </tr>
 
 <tr>
 
-<td align="center" colspan="4">
+<td align="center" colspan="2">
 
 ### 🛠️ Tools & Platforms
 
-<a href="https://github.com/Mayur-Rithe-14">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" />
-</a>
-
 <br>
+
+<a href="https://github.com/Mayur-Rithe-14">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark&perline=5" />
+</a>
 
 </td>
 
