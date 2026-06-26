@@ -54,72 +54,21 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-<i>Technologies I use to build modern, scalable, and production-ready web applications.</i>
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="100%">
-
-### 🌐 Languages
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-</a>
+<p align="center">
+  <i>Technologies and tools I use to design, build, and deploy modern web applications.</i>
+</p>
 
 <br>
 
-</td>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,nodejs,express,mongodb,git,github,vscode,postman,figma,npm&theme=dark&perline=8"
+      alt="Tech Stack"
+    />
+  </a>
+</p>
 
-<td align="center" width="100%">
-
-### ⚛️ Frontend
-
-<a href="https://react.dev/">
-  <img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,bootstrap&theme=dark" />
-</a>
-
-<br>
-
-</td>
-
-<td align="center" width="100%">
-
-### ⚙️ Backend
-
-<a href="https://nodejs.org/">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
-</a>
-
-<br>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="3" height="20"></td>
-</tr>
-
-<tr>
-<td align="center" colspan="8">
-
-### 🛠️ Tools & Platforms
-
-<a href="https://github.com/Mayur-Rithe-14">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm&theme=dark" />
-</a>
-
-<br>
-
-</td>
-</tr>
-
-</table>
-
-</div>
 
 ---
 
