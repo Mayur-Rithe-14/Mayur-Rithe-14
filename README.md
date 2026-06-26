@@ -54,20 +54,60 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <i>Technologies and tools I use to design, build, and deploy modern web applications.</i>
-</p>
+<div align="center">
+
+<i>Technologies I use to build scalable, full-stack web applications.</i>
 
 <br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php,mysql,react,vite,nodejs,express,mongodb,git,github,vscode,postman,npm&theme=dark&perline=8"
-      alt="Tech Stack"
-    />
-  </a>
-</p>
+<table>
+
+<tr>
+<td align="center" width="20%">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php&theme=dark" />
+
+</td>
+
+<td align="center" width="20%">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" />
+
+</td>
+
+<td align="center" width="20%">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+</td>
+
+<td align="center" width="20%">
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+
+</td>
+
+<td align="center" width="20%">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" />
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 
 ---
