@@ -61,74 +61,92 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 <br><br>
 
 <table>
+
 <tr>
-<td align="center" width="33%">
+
+<td align="center" width="25%">
 
 ### 🌐 Languages
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php&theme=dark" />
 </a>
 
 <br>
 
-<sub><b>HTML5 • CSS3 • JavaScript</b></sub>
+<sub><b>HTML • CSS • JavaScript • Java • Python • C • C++ • PHP</b></sub>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### ⚛️ Frontend
 
 <a href="https://react.dev/">
-  <img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vite&theme=dark" />
 </a>
 
 <br>
 
-<sub><b>React • Vite • Redux • Tailwind CSS • Bootstrap</b></sub>
+<sub><b>React • Vite</b></sub>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### ⚙️ Backend
 
 <a href="https://nodejs.org/">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </a>
 
 <br>
 
-<sub><b>Node.js • Express.js • MongoDB</b></sub>
+<sub><b>Node.js • Express.js</b></sub>
 
 </td>
+
+<td align="center" width="25%">
+
+### 🗄️ Database
+
+<a href="https://www.mongodb.com/">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+</a>
+
+<br>
+
+<sub><b>MongoDB • MySQL</b></sub>
+
+</td>
+
 </tr>
 
 <tr>
-<td colspan="3" height="20"></td>
+<td colspan="4" height="20"></td>
 </tr>
 
 <tr>
-<td align="center" colspan="3">
+
+<td align="center" colspan="4">
 
 ### 🛠️ Tools & Platforms
 
 <a href="https://github.com/Mayur-Rithe-14">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" />
 </a>
 
 <br>
 
-<sub><b>Git • GitHub • VS Code • Postman • Figma • npm</b></sub>
+<sub><b>Git • GitHub • VS Code • Postman • npm</b></sub>
 
 </td>
+
 </tr>
 
 </table>
 
 </div>
-
 
 ---
 
