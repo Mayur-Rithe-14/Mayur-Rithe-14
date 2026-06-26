@@ -58,77 +58,40 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 <i>Technologies I use to build modern, scalable, and production-ready web applications.</i>
 
-<br><br>
+<br>
 
 <table width="100%">
 
 <tr>
-
-<td width="50%" align="center" valign="top">
+<td align="center" width="25%" valign="top">
 
 ### 🌐 Languages
 
-<br>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php&theme=dark&perline=4" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php&theme=dark&perline=4"/>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td align="center" width="25%" valign="top">
 
 ### ⚛️ Frontend
 
-<br>
-
-<a href="https://react.dev/">
-  <img src="https://skillicons.dev/icons?i=react,vite&theme=dark&perline=4" />
-</a>
+<img src="https://skillicons.dev/icons?i=react,vite&theme=dark"/>
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" align="center" valign="top">
+<td align="center" width="25%" valign="top">
 
 ### ⚙️ Backend
 
-<br>
-
-<a href="https://nodejs.org/">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=4" />
-</a>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td align="center" width="25%" valign="top">
 
 ### 🗄️ Database
 
-<br>
-
-<a href="https://www.mongodb.com/">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=4" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" align="center">
-
-### 🛠️ Tools & Platforms
-
-<br>
-
-<a href="https://github.com/Mayur-Rithe-14">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark&perline=5" />
-</a>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
 
 </td>
 
@@ -136,7 +99,16 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 </table>
 
+<br>
+
+### 🛠️ Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"/>
+</p>
+
 </div>
+
 ---
 
 ## 🌟 Featured Projects
