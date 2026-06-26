@@ -54,42 +54,80 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 ## 💻 Tech Stack
 
-<table>
+<p align="center">
+
+<table align="center">
 
 <tr>
 
-<td valign="top" width="33%">
+<td align="center" width="33%">
 
-### Frontend
+<h3>Frontend</h3>
 
-<p align="center">
+<p>
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react,vite" />
+</a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,tailwind,bootstrap" />
+<p>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</a>
+</p>
 
+<p>
+<a href="https://redux.js.org/">
+<img src="https://skillicons.dev/icons?i=redux,tailwind,bootstrap" />
+</a>
 </p>
 
 </td>
 
-<td valign="top" width="33%">
+<td align="center" width="33%">
 
-### Backend
+<h3>Backend</h3>
 
-<p align="center">
+<p>
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<p>
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+</p>
 
+<p>
+<a href="https://firebase.google.com/">
+<img src="https://skillicons.dev/icons?i=firebase" />
+</a>
 </p>
 
 </td>
 
-<td valign="top" width="33%">
+<td align="center" width="33%">
 
-### Tools
+<h3>Tools & Platforms</h3>
 
-<p align="center">
+<p>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git,github" />
+</a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
+<p>
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode,postman" />
+</a>
+</p>
 
+<p>
+<a href="https://www.figma.com/">
+<img src="https://skillicons.dev/icons?i=figma,npm" />
+</a>
 </p>
 
 </td>
@@ -97,6 +135,8 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 </tr>
 
 </table>
+
+</p>
 
 ---
 
