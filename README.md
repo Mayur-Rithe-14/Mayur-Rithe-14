@@ -58,54 +58,9 @@ I focus on writing clean, maintainable code while creating intuitive user experi
 
 <i>Technologies I use to build modern, scalable, and production-ready web applications.</i>
 
-<br>
+<br><br>
 
-<table width="100%">
-
-<tr>
-<td align="center" width="25%" valign="top">
-
-### 🌐 Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php&theme=dark&perline=4"/>
-
-</td>
-
-<td align="center" width="25%" valign="top">
-
-### ⚛️ Frontend
-
-<img src="https://skillicons.dev/icons?i=react,vite&theme=dark"/>
-
-</td>
-
-<td align="center" width="25%" valign="top">
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
-
-</td>
-
-<td align="center" width="25%" valign="top">
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-### 🛠️ Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php,react,vite,nodejs,express,mongodb,mysql,git,github,vscode,postman,npm&theme=dark&perline=6" />
 
 </div>
 
