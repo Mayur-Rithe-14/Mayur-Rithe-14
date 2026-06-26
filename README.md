@@ -199,27 +199,34 @@ Developer portfolio showcasing projects, skills, and contact information with sm
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
+
+<i>I'm always open to collaborating on exciting projects, discussing new ideas, or connecting with fellow developers.</i>
+
+<br><br>
 
 <a href="mailto:mayurrithe2004@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Mayur-Rithe-14">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github" height="48" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://personal-portfolio-1-cqic.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge" />
 </a>
 
-<a href="https://personal-portfolio-1-cqic.onrender.com">
-<img src="https://img.shields.io/badge/Portfolio-Live-0A66C2?style=for-the-badge"/>
-</a>
-
-</p>
+</div>
 
 ---
 
