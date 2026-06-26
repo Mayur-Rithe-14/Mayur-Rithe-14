@@ -128,3 +128,215 @@ I enjoy solving real-world problems through code, writing clean and maintainable
 # 📌 Featured Projects
 
 > The project showcase begins below.
+
+---
+
+<!-- ===================================================== -->
+
+<!--           PREMIUM GITHUB PROFILE - PART 2             -->
+
+<!-- ===================================================== -->
+
+# 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 MERN E-Commerce Platform
+
+A full-featured e-commerce application built with the MERN stack, offering a modern shopping experience and a powerful admin dashboard.
+
+**Key Features**
+
+* JWT Authentication
+* Shopping Cart & Wishlist
+* Product Search & Filters
+* Order Tracking
+* Admin Dashboard
+* Responsive Design
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT`
+
+<br>
+
+<a href="YOUR_ECOMMERCE_REPO">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_ECOMMERCE_DEMO">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏡 Wanderlust
+
+An Airbnb-inspired vacation rental platform where users can explore, list, and review properties.
+
+**Key Features**
+
+* User Authentication
+* Property Listings
+* Image Uploads
+* Reviews & Ratings
+* Responsive Design
+
+**Tech Stack**
+
+`Node.js` `Express.js` `MongoDB` `EJS`
+
+<br>
+
+<a href="YOUR_WANDERLUST_REPO">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_WANDERLUST_DEMO">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### ✅ Taflow – Task Management
+
+A productivity-focused MERN application for creating, organizing, and tracking daily tasks.
+
+**Key Features**
+
+* Secure Authentication
+* Dashboard Analytics
+* Task CRUD
+* Status Management
+* Responsive UI
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB`
+
+<br>
+
+<a href="YOUR_TASKFLOW_REPO">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_TASKFLOW_DEMO">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Personal Portfolio
+
+A responsive portfolio website showcasing my projects, technical skills, and development journey.
+
+**Highlights**
+
+* Modern UI
+* Responsive Design
+* Project Showcase
+* Contact Form
+
+**Tech Stack**
+
+`React` `CSS` `JavaScript`
+
+<br>
+
+<a href="YOUR_PORTFOLIO_REPO">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://personal-portfolio-1-cqic.onrender.com">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayur-Rithe-14&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur-Rithe-14&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Rithe-14&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Rithe-14&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+* TypeScript
+* Next.js
+* Redux Toolkit
+* Docker
+* AWS Fundamentals
+* System Design
+* Clean Architecture
+
+---
+
+# 🎯 2026 Goals
+
+* Build more production-ready MERN applications
+* Learn cloud deployment with AWS
+* Contribute to Open Source
+* Strengthen DSA and problem-solving
+* Explore AI integrations in web applications
+* Secure a Software Engineering role
+
