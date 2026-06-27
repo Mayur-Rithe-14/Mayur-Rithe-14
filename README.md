@@ -76,38 +76,23 @@ My primary focus is writing clean, maintainable code while following best practi
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Mayur-Rithe-14">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayur-Rithe-14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayur-Rithe-14&show_icons=true&theme=github_dark&hide_border=true" />
   </a>
 
   <a href="https://github.com/Mayur-Rithe-14">
-    <img height="170" src="https://streak-stats.demolab.com?user=Mayur-Rithe-14&theme=github-dark&hide_border=true" />
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur-Rithe-14&theme=github-dark&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Rithe-14&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" />
-</p>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Rithe-14&theme=github-compact&hide_border=true" width="100%" />
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mayur-Rithe-14&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
-</p>
-
+  <a href="https://github.com/Mayur-Rithe-14?tab=repositories">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Rithe-14&layout=compact&theme=github_dark&hide_border=true" />
+  </a>
+</p> <- i want this Github Analytics section should automatically updated, when i do any activity, can we do this ?
 ---
 
 ## 🤝 Connect With Me
