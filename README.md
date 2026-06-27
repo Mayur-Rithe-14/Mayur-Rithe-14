@@ -8,9 +8,9 @@
 Full-Stack MERN Developer • JavaScript Enthusiast • Building Modern Web Applications
 </h3>
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;MongoDB+•+Express+•+React+•+Node.js;Building+Scalable+Web+Applications;Always+Learning+Something+New" />
-</p> -->
+</p>
 
 <p align="center">
 <a href="https://github.com/Mayur-Rithe-14">
@@ -33,8 +33,6 @@ Full-Stack MERN Developer • JavaScript Enthusiast • Building Modern Web Appl
 ---
 
 ## 🚀 About Me
-
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 Hi, I'm **Mayur Rithe** 👋
 
