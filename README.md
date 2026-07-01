@@ -92,7 +92,7 @@ My primary focus is writing clean, maintainable code while following best practi
   <a href="https://github.com/Mayur-Rithe-14?tab=repositories">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Rithe-14&layout=compact&theme=github_dark&hide_border=true" />
   </a>
-</p> <- i want this Github Analytics section should automatically updated, when i do any activity, can we do this ?
+</p>
 ---
 
 ## 🤝 Connect With Me
