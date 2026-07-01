@@ -21,7 +21,7 @@ Full-Stack MERN Developer • JavaScript Enthusiast • Building Modern Web Appl
 <img src="https://img.shields.io/github/followers/Mayur-Rithe-14?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/mayur-rithe)">
+<a href="https://www.linkedin.com/in/mayur-rithe">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
