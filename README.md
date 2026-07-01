@@ -79,23 +79,20 @@ My primary focus is writing clean, maintainable code while following best practi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Mayur-Rithe-14&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600"
-  />
+  <a href="https://github.com/Mayur-Rithe-14">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayur-Rithe-14&show_icons=true&theme=github_dark&hide_border=true" />
+  </a>
 
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=Mayur-Rithe-14&theme=github-dark&hide_border=true"
-  />
+  <a href="https://github.com/Mayur-Rithe-14">
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur-Rithe-14&theme=github-dark&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-  <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Rithe-14&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-  />
-</p>
+  <a href="https://github.com/Mayur-Rithe-14?tab=repositories">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Rithe-14&layout=compact&theme=github_dark&hide_border=true" />
+  </a>
+</p> 
 
 ---
 
